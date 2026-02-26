@@ -7,14 +7,12 @@ The API supports fetching, creating, updating, and filtering products.
 
 ## 🔗 Project Links
 
-**GitHub Repository:**
-YOUR_GITHUB_LINK
 
 **Live API (Render Deployment):**
-YOUR_RENDER_LINK
+https://nodeassign26.onrender.com/
 
 **Postman Documentation:**
-YOUR_POSTMAN_LINK
+https://documenter.getpostman.com/view/50839376/2sBXcGFfnp
 
 ---
 
@@ -62,8 +60,8 @@ http://localhost:3000
 
 ### Deployed (Render)
 
-```
-YOUR_RENDER_LINK
+```[
+https://nodeassign26.onrender.com/
 ```
 
 ---
@@ -176,12 +174,8 @@ Response:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Devanshi
 
 ---
 
-## 📜 Notes
 
-* This API does not use a database (data stored in memory array)
-* Restarting server resets products
-* All routes are publicly accessible
